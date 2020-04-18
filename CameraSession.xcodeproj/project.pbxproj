@@ -13,6 +13,7 @@
 		ED9801A2244B10AB00C6F5A9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED9801A0244B10AB00C6F5A9 /* Main.storyboard */; };
 		ED9801A4244B10AE00C6F5A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED9801A3244B10AE00C6F5A9 /* Assets.xcassets */; };
 		ED9801A7244B10AE00C6F5A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED9801A5244B10AE00C6F5A9 /* LaunchScreen.storyboard */; };
+		ED9801AF244B1E4700C6F5A9 /* PreviewViewLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED9801AE244B1E4700C6F5A9 /* PreviewViewLayer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ED9801A3244B10AE00C6F5A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED9801A6244B10AE00C6F5A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED9801A8244B10AE00C6F5A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED9801AE244B1E4700C6F5A9 /* PreviewViewLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewViewLayer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				ED98019A244B10AB00C6F5A9 /* AppDelegate.swift */,
 				ED98019C244B10AB00C6F5A9 /* SceneDelegate.swift */,
 				ED98019E244B10AB00C6F5A9 /* ViewController.swift */,
+				ED9801AE244B1E4700C6F5A9 /* PreviewViewLayer.swift */,
 				ED9801A0244B10AB00C6F5A9 /* Main.storyboard */,
 				ED9801A3244B10AE00C6F5A9 /* Assets.xcassets */,
 				ED9801A5244B10AE00C6F5A9 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				ED98019F244B10AB00C6F5A9 /* ViewController.swift in Sources */,
 				ED98019B244B10AB00C6F5A9 /* AppDelegate.swift in Sources */,
 				ED98019D244B10AB00C6F5A9 /* SceneDelegate.swift in Sources */,
+				ED9801AF244B1E4700C6F5A9 /* PreviewViewLayer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
